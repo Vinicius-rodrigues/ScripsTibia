@@ -19,6 +19,7 @@ for c in range(contKeybord):
     print( "runoouuu")
     time.sleep(3)
     pressKeyboard('f11')
+    print( "comeu food")
     time.sleep(47)
     
     moveMouse(500,0)
